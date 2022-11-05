@@ -1,8 +1,15 @@
 # go design pattern cases
 
-build:
+test:
 ***
 
 ```bash
 make test
+```
+
+run
+***
+
+```bash
+make
 ```
